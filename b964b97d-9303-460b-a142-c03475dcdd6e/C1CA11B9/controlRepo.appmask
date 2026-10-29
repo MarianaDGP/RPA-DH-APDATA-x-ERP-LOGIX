@@ -1,0 +1,285 @@
+{
+  "Screens": [
+    {
+      "Controls": [],
+      "Handle": {
+        "value": 0
+      },
+      "ProcessName": "TotvsSmartClient",
+      "ScreenShot": null,
+      "ElementTypeName": "Window",
+      "InstanceId": "45f6ff66-a01b-447c-be7a-eac3f9af44f5",
+      "Name": "Window 'TOTVS Série  ...  ( AMBIENTE TESTE ) '",
+      "SelectorCount": 1,
+      "Selectors": [
+        {
+          "CustomSelector": null,
+          "Elements": [
+            {
+              "Attributes": [
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Class",
+                  "Operation": "EqualTo",
+                  "Value": "QWidget"
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Enabled",
+                  "Operation": "EqualTo",
+                  "Value": true
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Id",
+                  "Operation": "EqualTo",
+                  "Value": ""
+                },
+                {
+                  "Ignore": false,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Name",
+                  "Operation": "EqualTo",
+                  "Value": "TOTVS Série 9 Distribuição e Logística (Logix) 01.9.0099  - 12.1.2511.198 - Server 7.00.131227A-20210104 13.1.3.52 - Client 7.00.131227A-20210118    ( AMBIENTE TESTE ) "
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": true,
+                  "IsDisabledAttribute": false,
+                  "Name": "Ordinal",
+                  "Operation": "EqualTo",
+                  "Value": 0
+                },
+                {
+                  "Ignore": false,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Process",
+                  "Operation": "EqualTo",
+                  "Value": "TotvsSmartClient"
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Visible",
+                  "Operation": "EqualTo",
+                  "Value": true
+                }
+              ],
+              "CustomValue": null,
+              "Ignore": false,
+              "Name": "Window 'TOTVS Série 9 Distribuição e Logística (Logix) 01.9.0099  - 12.1.2511.198 - Server 7.00.131227A-20210104 13.1.3.52 - Client 7.00.131227A-20210118    ( AMBIENTE TESTE ) '",
+              "Tag": "window"
+            }
+          ],
+          "Ignore": false,
+          "ImageSelector": null,
+          "IsCustom": false,
+          "IsImageBased": false,
+          "IsPlaceholderSelector": false,
+          "IsWindowsInstance": false,
+          "Name": "Default Selector",
+          "Properties": []
+        }
+      ],
+      "Tag": "window",
+      "ScreenshotPath": "controlRepo-screenshots\\31e48ad9-381a-45e1-a2dd-9b65dcdec8f8.png"
+    },
+    {
+      "Controls": [],
+      "Handle": {
+        "value": 0
+      },
+      "ProcessName": "TotvsSmartClient",
+      "ScreenShot": null,
+      "ElementTypeName": "Pane",
+      "InstanceId": "ba55d880-e5f7-49c5-a445-ae891568204c",
+      "Name": "Pane 'TotvsSmartClient'",
+      "SelectorCount": 1,
+      "Selectors": [
+        {
+          "CustomSelector": null,
+          "Elements": [
+            {
+              "Attributes": [
+                {
+                  "Ignore": false,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Class",
+                  "Operation": "EqualTo",
+                  "Value": "QPopup"
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Enabled",
+                  "Operation": "EqualTo",
+                  "Value": true
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Id",
+                  "Operation": "EqualTo",
+                  "Value": ""
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Name",
+                  "Operation": "EqualTo",
+                  "Value": "TotvsSmartClient"
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": true,
+                  "IsDisabledAttribute": false,
+                  "Name": "Ordinal",
+                  "Operation": "EqualTo",
+                  "Value": 0
+                },
+                {
+                  "Ignore": false,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Process",
+                  "Operation": "EqualTo",
+                  "Value": "TotvsSmartClient"
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Visible",
+                  "Operation": "EqualTo",
+                  "Value": true
+                }
+              ],
+              "CustomValue": null,
+              "Ignore": false,
+              "Name": "Pane 'TotvsSmartClient'",
+              "Tag": "pane"
+            }
+          ],
+          "Ignore": false,
+          "ImageSelector": null,
+          "IsCustom": false,
+          "IsImageBased": false,
+          "IsPlaceholderSelector": false,
+          "IsWindowsInstance": false,
+          "Name": "Default Selector",
+          "Properties": []
+        }
+      ],
+      "Tag": "pane",
+      "ScreenshotPath": "controlRepo-screenshots\\589bfe40-2e8d-4773-b20a-1dc91f50e0f0.png"
+    },
+    {
+      "Controls": [],
+      "Handle": {
+        "value": 0
+      },
+      "ProcessName": "TotvsSmartClient",
+      "ScreenShot": null,
+      "ElementTypeName": "Window",
+      "InstanceId": "9935bc53-d6c3-4397-9956-e1a3e783e928",
+      "Name": "Window 'TOTVS Série  ...  ( AMBIENTE TESTE ) ' 2",
+      "SelectorCount": 1,
+      "Selectors": [
+        {
+          "CustomSelector": null,
+          "Elements": [
+            {
+              "Attributes": [
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Class",
+                  "Operation": "EqualTo",
+                  "Value": "QWidget"
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Enabled",
+                  "Operation": "EqualTo",
+                  "Value": true
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Id",
+                  "Operation": "EqualTo",
+                  "Value": ""
+                },
+                {
+                  "Ignore": false,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Name",
+                  "Operation": "EqualTo",
+                  "Value": "TOTVS Série 9 Distribuição e Logística (Logix) 01.9.0099  -  12.1.2511.198 - Server 7.00.131227A-20210104 13.1.3.52 - Client 7.00.131227A-20210118    ( AMBIENTE TESTE ) "
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": true,
+                  "IsDisabledAttribute": false,
+                  "Name": "Ordinal",
+                  "Operation": "EqualTo",
+                  "Value": 0
+                },
+                {
+                  "Ignore": false,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Process",
+                  "Operation": "EqualTo",
+                  "Value": "TotvsSmartClient"
+                },
+                {
+                  "Ignore": true,
+                  "IsOrdinal": false,
+                  "IsDisabledAttribute": false,
+                  "Name": "Visible",
+                  "Operation": "EqualTo",
+                  "Value": true
+                }
+              ],
+              "CustomValue": null,
+              "Ignore": false,
+              "Name": "Window 'TOTVS Série 9 Distribuição e Logística (Logix) 01.9.0099  -  12.1.2511.198 - Server 7.00.131227A-20210104 13.1.3.52 - Client 7.00.131227A-20210118    ( AMBIENTE TESTE ) '",
+              "Tag": "window"
+            }
+          ],
+          "Ignore": false,
+          "ImageSelector": null,
+          "IsCustom": false,
+          "IsImageBased": false,
+          "IsPlaceholderSelector": false,
+          "IsWindowsInstance": false,
+          "Name": "Default Selector",
+          "Properties": []
+        }
+      ],
+      "Tag": "window",
+      "ScreenshotPath": "controlRepo-screenshots\\18023d77-8df7-4bdb-8c99-a9b7a3c1cc91.png"
+    }
+  ],
+  "Version": 1,
+  "saveId": "15b01d28-51eb-46b3-b667-f64496dab6ce"
+}
